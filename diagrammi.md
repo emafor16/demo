@@ -1,3 +1,3 @@
 esercizio 1:
 
-![immagine](\img\Monica&Ema.png)
+![immagine](/img/Monica&Ema.png)
